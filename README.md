@@ -6,7 +6,7 @@ This is a project to learn more about APIs and how to use someone else's API. So
 
 ## Task List:
 
-- [ ] Create React Project
+- [X] Create React Project
 - [ ] Create Pages
 - [ ] Routing
 - [ ] Implementing basic functionalities
